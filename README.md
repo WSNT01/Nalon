@@ -9,3 +9,4 @@
 > Utilizo este espaço para organização e compartilhamento dos meus projetos
 
 ![](https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif)
+.
